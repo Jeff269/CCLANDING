@@ -1,0 +1,1299 @@
+            <Row 
+                justify='center'
+                style={{
+                    display: 'flex', 
+                    justifyContent:'center'
+                }}
+            >
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/USA.png'
+                            alt='USA-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/engie.png'
+                            alt='Engine-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/ingra.png'
+                            alt='Ingra-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/electro-sur-este.gif'
+                            alt='Electro-sur-oeste-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+
+                
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/live-ingenieria-y-construccion.png'
+                            alt='live-ingenieria-y-construccion-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/ingenieria-y-servicios-sac.jpg'
+                            alt='ingenieria-y-servicios-sac-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/distriluz.png'
+                            alt='distriluz-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/siemens.png'
+                            alt='siemens-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/hidrandina.jpg'
+                            alt='hidrandina-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/AEE-power.png'
+                            alt='AEE-power-logo'
+                            preview={false}
+
+                            width= {80}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/statkraft.jpg'
+                            alt='statkraft-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/kv-ingenieria.png'
+                            alt='kv-ingenieria-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/enel.png'
+                            alt='enel-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/abengoa.png'
+                            alt='abengoa-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {50}
+                        />
+                    </Card>
+                </Col>
+
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/zevallos.jpg'
+                            alt='zevallos-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/future-engineering-sac.png'
+                            alt='future-engineering-sac-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/G.jpg'
+                            alt='G-logo'
+                            preview={false}
+
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/gigawatt-ingenieros.png'
+                            alt='gigawatt-ingenieros-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/gobierno-autonomo-departamental-de-potos.png'
+                            alt='gigawatt-ingenieros-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/grupo-union.png'
+                            alt='grupo-union-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/grupo-eit-sac.jpg'
+                            alt='grupo-eit-sac-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/hmv-ingenieros.jpg'
+                            alt='hmv-ingenieros-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/hv-contratistas.png'
+                            alt='hv-contratistas-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/hyh-soluciones-tecnologias-e-ingenieria-sac.png'
+                            alt='hyh-soluciones-tecnologias-e-ingenieria-sac-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/imporper.png'
+                            alt='imporper-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/inesco.png'
+                            alt='inesco-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/ingenieria-estudios-y-proyectos.png'
+                            alt='ingenieria-estudios-y-proyectos-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/inkia-energy.png'
+                            alt='inkia-energy-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/inmel.png'
+                            alt='inmel-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/interfrio.png'
+                            alt='interfrio-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/isa-rep.jpg'
+                            alt='isa-rep-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/jjf-ingenieria-de-mantenimiento-sac.png'
+                            alt='jjf-ingenieria-de-mantenimiento-sac-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/kd-contratistas-generales-srlt.png'
+                            alt='kd-contratistas-generales-srlt-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/lari-contratistas.png'
+                            alt='lari-contratistas-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/luzam.jpg'
+                            alt='luzam-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/manager-ingenieria-y-construccion.png'
+                            alt='manager-ingenieria-y-construccion-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/manufacturas-electricas.png'
+                            alt='manufacturas-electricas-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/marquisa.png'
+                            alt='marquisa-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/municipalidad-distrital-de-san-sebastian.png'
+                            alt='municipalidad-distrital-de-san-sebastian-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/olamsa.gif'
+                            alt='olamsa-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/omega-peru.jpg'
+                            alt='omega-peru-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/oyt.png'
+                            alt='oyt-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/peru-electro-ingenieros.png'
+                            alt='peru-electro-ingenieros-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/power-energy.png'
+                            alt='power-energy-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/power-engineering.jpg'
+                            alt='power-engineering-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/pro-inversion.png'
+                            alt='pro-inversion-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/promsace.png'
+                            alt='promsace-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/proyecto-especial-olmos-tinajones.png'
+                            alt='proyecto-especial-olmos-tinajones-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/qr-constructoras-consultora.jpg'
+                            alt='qr-constructoras-consultora-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/san-marcos.png'
+                            alt='san-marcos-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/selin.png'
+                            alt='selin-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/servicios-santa-gabriela-sac.png'
+                            alt='servicios-santa-gabriela-sac-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/sesga.jpg'
+                            alt='sesga-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/setar-sistema-yacuiba.png'
+                            alt='setar-sistema-yacuiba-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/sinerge.png'
+                            alt='sinerge-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/s-y-h.png'
+                            alt='s-y-h-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/tactical -it.png'
+                            alt='tactical-it-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/unsaac.png'
+                            alt='unsaac-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/vision-quality-energy-sac.png'
+                            alt='vision-quality-energy-sac-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/wordktry-mec.png'
+                            alt='wordktry-mec-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/enosa.png'
+                            alt='enosa-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/entel.png'
+                            alt='entel-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/eos.jpg'
+                            alt='eos-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/escudo.png'
+                            alt='escudo-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/energy-and-information-technologies.png'
+                            alt='energy-and-information-technologies-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/energingenieria.png'
+                            alt='energingenieria-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/ende-corporation.png'
+                            alt='ende-corporation-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/emseu.png'
+                            alt='emseu-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/electro-oriente.png'
+                            alt='electro-oriente-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+                <Col
+                    style={{padding:'20px'}}
+                >
+                    <Card
+                        bordered={false} 
+                        hoverable
+                        style={{ width: '200px', display: 'flex', justifyContent:'center'}}
+                    
+                    >
+                        <Image
+                            src='../images/logos/extras/eeh.jpg'
+                            alt='eeh-logo'
+                            preview={false}
+                            width= {120}
+                            height= {40}
+                        />
+                    </Card>
+                </Col>
+            </Row>
