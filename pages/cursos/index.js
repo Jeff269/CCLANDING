@@ -16,11 +16,12 @@ const Cursos = () => {
     useEffect (() => {
         axios ({
           method: 'GET',
-          url: API_URL+'/courses?_limit=1000000'
+          url: API_URL+'/courses?culminate=false'
         }).then (res =>{
             setCourses(res.data.reverse())
             setLoading(false)
-          }) 
+            console.log(res)
+          })
     },[])
 
     return(
@@ -98,7 +99,7 @@ const Cursos = () => {
                                                     }}
                                                     cover={
                                                         <Image
-                                                            src={course.photo.url} 
+                                                            src='https://i0.wp.com/admision.utem.cl/wp-content/uploads/2020/11/cual-es-el-trabajo-de-un-ingeniero-comercial.jpg?w=1280&ssl=1'
                                                             alt={course.name} 
                                                             preview={false}         
                                                         />
@@ -133,13 +134,13 @@ const Cursos = () => {
                                                 style={{ 
                                                     width: '100%',  
                                                 }}
-                                                // cover={
-                                                //     <Image
-                                                //         src={course.photo.url} 
-                                                //         alt={course.name} 
-                                                //         preview={false}   
-                                                //     />
-                                                // }
+                                                cover={
+                                                    <Image
+                                                        src='https://i0.wp.com/admision.utem.cl/wp-content/uploads/2020/11/cual-es-el-trabajo-de-un-ingeniero-comercial.jpg?w=1280&ssl=1' 
+                                                        alt={course.name} 
+                                                        preview={false}   
+                                                    />
+                                                }
                                             >
                                                 <Meta title={course.name}/>
                                             </Card>

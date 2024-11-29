@@ -151,7 +151,7 @@ const DiplomatItem = () => {
                                         { diplomat.photo != undefined
                                         ?
                                         <Image
-                                            src={diplomat.photo.url}
+                                            src='https://capacitateparaelempleo.org/assets/DiplomasImages/18f5f4b4-eadf-41ea-8497-4c9480cc5c4f.png'
                                             alt={diplomat.name}
                                             preview={false}
                                             width={'80%'}

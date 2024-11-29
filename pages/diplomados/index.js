@@ -16,7 +16,7 @@ const Diplomados = () => {
     useEffect (() => {
         axios ({
           method: 'GET',
-          url: API_URL+'/diplomats?_limit=1000000'
+          url: API_URL+'/diplomats?culminate=false'
         }).then (res =>{
           setDiplomats(res.data.reverse())
           setLoading(false)
@@ -98,7 +98,7 @@ const Diplomados = () => {
                                                 }}
                                                 cover={
                                                     <Image
-                                                        src={diplomat.photo.url} 
+                                                        src='https://capacitateparaelempleo.org/assets/DiplomasImages/18f5f4b4-eadf-41ea-8497-4c9480cc5c4f.png'
                                                         alt={diplomat.name} 
                                                         preview={false}   
                                                     />
@@ -135,7 +135,7 @@ const Diplomados = () => {
                                         }}
                                         cover={
                                             <Image
-                                                src={diplomat.photo.url} 
+                                                src='https://capacitateparaelempleo.org/assets/DiplomasImages/18f5f4b4-eadf-41ea-8497-4c9480cc5c4f.png'
                                                 alt={diplomat.name} 
                                                 preview={false}   
                                             />

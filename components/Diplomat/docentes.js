@@ -41,11 +41,11 @@ const Docentes = ( data ) => {
                             }}
                         >
                             <Image
-                                src={data.photo.url}
+                                src='https://cdn-icons-png.flaticon.com/512/1056/1056692.png'
                                 alt={data.name}
                                 preview={false}
                                 width={'200px'}
-                                height={'230px'}
+                                height={'200px'}
                                 style={{
                                     borderRadius: 100
                                 }}
