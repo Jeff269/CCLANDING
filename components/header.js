@@ -96,11 +96,11 @@ const Head = () => {
                     </Menu.Item>
                     */}
                     <Menu.Item key="7">
-                      <Button style={{color:'white', fontWeight:'bold', fontSize: 16}} target="_blank" type="primary" href="http://aulavirtual.ccitecperu.com/">Campus Virtual</Button>
+                      <Button style={{color:'white', fontWeight:'bold', fontSize: 16}} target="_blank" type="primary" href="http://aula.ccitecperu.com.pe/">Campus Virtual</Button>
                     </Menu.Item>
                     
                     <Menu.Item key="7">
-                      <Button style={{color:'white', fontWeight:'bold', fontSize: 16}} target="_blank" type="primary" href="http://certificados.ccitecperu.com/">Valida tu Certificado</Button>
+                      <Button style={{color:'white', fontWeight:'bold', fontSize: 16}} target="_blank" type="primary" href="http://certificados.ccitecperu.com.pe/">Valida tu Certificado</Button>
                     </Menu.Item>
                   </Menu>
                 </Header>
