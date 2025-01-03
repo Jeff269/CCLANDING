@@ -65,41 +65,6 @@ const Inversion = ( data ) => {
                             bordered={true} 
                             hoverable
                         >
-                        {   investment.name == 'Profesionales' || investment.name =='Estudiantes (pregrado)'?
-                        <>
-                            {investment.investment_course_items.map(item=>( 
-                                <Col 
-                                    key={item.id}
-                                    span={24}
-                                    style={{
-                                        borderBlockEnd:'1px solid #eee',
-                                        marginBottom:'5px'
-                                    }}
-                                >
-                                    
-                                    <Row>
-                                        <Col span={12}>
-                                            <Typography>
-                                            <CheckCircleOutlined 
-                                                style={{fontSize:'15px', padding: 10, color:'#2b60ae'}}
-                                            />
-                                                {item.name}
-                                            </Typography>
-                                        </Col>
-                                        <Col span={12}>
-                                            <Typography
-                                                style={{textAlign:'end'}}
-                                            >
-                                                <b>S/.{item.price}.00</b>
-                                            </Typography>
-                                        </Col>
-                                    </Row>
-                                    
-                                </Col>
-                            
-                            ))}
-                        </>
-                        :
                         <>
                         {investment.investment_course_items.map(item=>( 
                             <Col 
@@ -123,7 +88,7 @@ const Inversion = ( data ) => {
                                         <Typography
                                             style={{textAlign:'end'}}
                                         >
-                                            <b>{ item.name.toLowerCase().includes('inversión') ? '$':'S/.' }{item.price}.00</b>
+                                            <b>{ investment.name.toLowerCase().includes('inversión') ? '$':'S/.' }{item.price}.00</b>
                                         </Typography>
                                     </Col>
                                 </Row>
@@ -131,7 +96,6 @@ const Inversion = ( data ) => {
                             </Col>
                         ))}
                         </>
-                        }
                         </Card>           
                     )} 
                     </Col>
